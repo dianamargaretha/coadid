@@ -1,0 +1,39 @@
+/*-----------------------------------------------------------------------------------
+    Template Name: Bootstrap 5 Template
+    Version: 1.0.3
+-----------------------------------------------------------------------------------
+    
+    CSS INDEX
+    ===================
+	
+    01. Template default CSS
+    02. Header
+    03. Slider
+    04. Shipping
+    05. Product
+    06. Banner
+    07. Newsletter
+    08. Blog
+    09. Testimonial
+    10. Brand
+    11. Breadcrumb
+
+-----------------------------------------------------------------------------------*/
+@import "./bootstrap/functions";
+@import "variabls";
+@import "./bootstrap/bootstrap";
+
+@import "common";
+@import "header";
+@import "slider";
+@import "navigation";
+@import "offcanvas";
+@import "animation";
+@import "footer";
+@import "shipping";
+@import "product";
+@import "banner";
+@import "blog";
+@import "testimonial";
+@import "brand";
+@import "breadcrumb";
